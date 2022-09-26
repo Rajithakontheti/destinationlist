@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.dest-list-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f9;
+}
+.head {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+}
